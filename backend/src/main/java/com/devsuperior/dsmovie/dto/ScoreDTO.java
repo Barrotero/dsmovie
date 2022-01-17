@@ -32,6 +32,4 @@ public class ScoreDTO {
 	public void setScore(Double score) {
 		this.score = score;
 	}
-	
-	
 }
