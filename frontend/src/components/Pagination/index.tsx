@@ -26,4 +26,8 @@ function Pagination({ page, onChange } : Props) {
     );
 }
 
+<<<<<<< HEAD
 export default Pagination;
+=======
+export default Pagination;
+>>>>>>> 7a9f3388147d837d0ec631add021c5a2f35c8669

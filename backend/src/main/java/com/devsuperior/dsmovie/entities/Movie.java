@@ -79,4 +79,8 @@ public class Movie {
 	public Set<Score> getScores() {
 		return scores;
 	}
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> 7a9f3388147d837d0ec631add021c5a2f35c8669

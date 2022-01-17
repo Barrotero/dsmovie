@@ -38,4 +38,8 @@ public class User {
 	public void setEmail(String email) {
 		this.email = email;
 	}
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> 7a9f3388147d837d0ec631add021c5a2f35c8669

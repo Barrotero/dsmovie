@@ -29,4 +29,8 @@ public class MovieService {
 		MovieDTO dto = new MovieDTO(result);
 		return dto;
 	}
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> 7a9f3388147d837d0ec631add021c5a2f35c8669
